@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a PhD student from Sonora, Mexico
+I'm interested in tropical dry forests landscape ecology, climate change and conservation
+I'm looking to develope my coding skills for data analysis 
+
 <!--
 **leoverdugo/leoverdugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
